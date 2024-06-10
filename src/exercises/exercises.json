@@ -1,0 +1,78 @@
+{
+  "exercises": {
+    "chest": [
+      { 
+        "name": "Incline Bench Press", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      },
+      { 
+        "name": "Flat Bench Press", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      }
+    ],
+    "back": [
+      { 
+        "name": "Lat Pulldown", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      },
+      { 
+        "name": "Bent Over Rows", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      }
+    ],
+    "biceps": [
+      { 
+        "name": "Bicep Curls", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      }
+    ],
+    "triceps": [
+      { 
+        "name": "Dips", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      }
+    ],
+    "shoulders": [
+      { 
+        "name": "Lateral Raises", 
+
+
+        
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      }
+    ],
+    "hamstrings": [
+      { 
+        "name": "Hamstring Curls", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      }
+    ],
+    "quads": [
+      { 
+        "name": "Hack Squat", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      },
+      { 
+        "name": "Leg Press", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 12 }
+      }
+    ],
+    "calves": [
+      { 
+        "name": "Calf Raises", 
+        "strength": { "sets": 4, "reps": 5 },
+        "muscle": { "sets": 3, "reps": 15 }
+      }
+    ]
+  }
+}
